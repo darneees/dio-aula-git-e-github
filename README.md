@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GitHub :triangular_flag_on_post:
+# DIO | Versionamento de Código com Git e GitHub :triangular_flag_on_post:
 
 repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e Github da [Digital Innovation One](https://www.dio.me/).
 

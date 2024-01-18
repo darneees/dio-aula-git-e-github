@@ -9,13 +9,13 @@ repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 
 ## Resumo das Aulas :memo:
 
-| Modulos  | Resumos |
-| ------------- | ------------- |
-| 01 |  Visão geral do curso e ferramentas |
-| 02 |  Instalação, configuração e autenticação |
-| 03 |  Primeiros passos com GIT e GITHUB |
-| 04 |  Dicas e materiais de apoio |
-| 05 |  Questionário |
+| Modulos  | Resumos | Q/ de Aulas por modulo |
+| ------------- | ------------- | ------------- |
+| 01 |  Visão geral do curso e ferramentas | 4 |
+| 02 |  Instalação, configuração e autenticação | 5 |
+| 03 |  Primeiros passos com GIT e GITHUB | 6 |
+| 04 |  Dicas e materiais de apoio | 2 |
+| 05 |  Questionário | 1 |
 
 
 ## Guia de comandos Git :mag:
@@ -159,4 +159,9 @@ mostra o repositorio remoto adicionado anteriormente.
 $ mkdir .github
 ```
 cria a pasta .github na raiz do projeto ( se não existir ).
+#
+```
+$ git fetch origin
+```
+todas as branches do repositório remoto são baixadas para o repositório local.
 #
